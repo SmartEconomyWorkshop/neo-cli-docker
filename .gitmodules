@@ -1,0 +1,4 @@
+[submodule "neo-cli"]
+	path = neo-cli
+	url = git@github.com:SmartEconomyWorkshop/neo-cli.git
+	branch = master
